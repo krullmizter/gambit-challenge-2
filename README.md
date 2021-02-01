@@ -1,14 +1,9 @@
-# Gambit task #2 
-### Made by: Samuel Granvik
+# Gambit challenge #2 (attempt) 
+#### Made by: Samuel Granvik
 
 ### Option 2: Web or native app
-"If the data conversion path in option 1 is not something that interests you, or you prefer a more graphical solution, create an app that retrieves and parses the data and presents it as is. The key point is to make use of data available in a backend, and present it in a mobile friendly way." 
+"If the data conversion path in option 1 is not something that interests you, or you prefer a more graphical solution, create an app that retrieves and parses the data and presents it as is. The key point is to make use of data available in a backend, and present it in a mobile friendly way."
 
+---
 ### About
-I chose to do option #2 because of my prior frontend skills, and working experiences. 
-This project uses:
-- Vue.js
-- Gridsome (https://gridsome.org/)
-- Vuetify (https://vuetifyjs.com/en/)
-
-I chose Gridsome because if its simplicity and easy of use when working with smaller sets of data, and less UI intensive code + it uses the GraphQL for its data layer. I find Vue.js easy to work with, having both used it in my studies and in personal projects. I use Vuetify to get the web app feel, and really bring out some great material design options from a great framework. SCSS is just a must have in todays frontend tasks. I really like this techstack, it's awesome 🤟
+This was my "middle" attempt at the gambit challenge #2. This is the [main](https://github.com/krullmizter/gambit-app) submission, and the working one. This one is practically the same as the main solution, using Vue, Gridsome and GraphQL. But this solution only uses the [Vuetify](https://vuetifyjs.com/en/) framework to style the web-app. I wanted to take advantage of the material design, and their pre-made solution to the table model. This would allow me to use pre-built filtering, pagination and sorting for the data. I began working on this but later gave up to do it on my own. 
