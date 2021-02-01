@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"register": "0001-0002",
+		"numbers": "2",
+		"var_name": "Flow Rate",
+		"format": "REAL4",
+		"note": "Unit: m3/h"
+	},
+	{
+		"id": 2,
+		"register": "0003-0004",
+		"numbers": "2",
+		"var_name": "Energy Flow Rate",
+		"format": "REAL4",
+		"note": "Unit: GJ/h"
+	},
+	{
+		"id": 3,
+		"register": "0005-0006",
+		"numbers": "2",
+		"var_name": "Velocity",
+		"format": "REAL4",
+		"note": "Unit: m/s"
+	},
+	{
+		"id": 4,
+		"register": "0005-0006",
+		"numbers": "2",
+		"var_name": "Velocity",
+		"format": "REAL4",
+		"note": "Unit: m/s"
+	},
+	{
+		"id": 5,
+		"register": "0005-0006",
+		"numbers": "2",
+		"var_name": "Velocity",
+		"format": "REAL4",
+		"note": "Unit: m/s"
+	},
+	{
+		"id": 6,
+		"register": "0005-0006",
+		"numbers": "2",
+		"var_name": "Velocity",
+		"format": "REAL4",
+		"note": "Unit: m/s"
+	}
+]

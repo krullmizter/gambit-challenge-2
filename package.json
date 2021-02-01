@@ -1,0 +1,16 @@
+{
+  "name": "gambit-app",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.4.3"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^2.5.2"
+  }
+}
